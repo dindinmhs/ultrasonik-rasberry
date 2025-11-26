@@ -6,7 +6,7 @@ Client untuk membaca sensor ultrasonik HC-SR04 dan mengirim data ke server.
 
 1. Clone repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/dindinmhs/ultrasonik-rasberry.git
 cd ultrasonik_rasberry
 ```
 
